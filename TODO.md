@@ -1,3 +1,5 @@
 # Shopping
-- eggs
-- milk
+- [] eggs
+- [] milk
+- [] garlic
+- [] onion
