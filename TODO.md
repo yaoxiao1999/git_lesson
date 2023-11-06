@@ -3,3 +3,4 @@
 - [ ] milk
 - [ ] garlic
 - [ ] onion
+- [ ] pasta
